@@ -14,8 +14,8 @@ public class Player {
     private String nom;
     private  int score;
     private List<RPSEnum> ListMouvement = new ArrayList<>();
-    private static int nbMouvment = 20;
-
+    private static int nbMouvment = 3;
+    private Iterator<RPSEnum> iter;
 
     public Player(String nom,List<RPSEnum> mouvement){
         this.nom = nom;
@@ -57,7 +57,9 @@ public class Player {
     }
 
     public RPSEnum getNextMove(){
-        Iterator<RPSEnum> iter = ListMouvement.iterator();
+        if(iter == null) {
+            iter = ListMouvement.iterator();
+        }
         if(iter ==null){
             ListMouvement.iterator();
         }

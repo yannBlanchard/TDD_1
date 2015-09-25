@@ -19,9 +19,28 @@ public class RockPaperScissors {
     }
 
     public Result play(Player p1, Player p2){
-        while(p1.getNextMove()!= null && p2.getNextMove()!=null){
-            
+        Result res = Result.LOST;
+        for(int i=0;i<p1.getNbMouvment();i++){
+        //while(p1.getNextMove()!= null && p2.getNextMove()!=null){
+            switch(play(p1.getNextMove(),p2.getNextMove())){
+                case WIN:
+                    p1.setScore(p1.getScore() + 1);
+                    break;
+                case TIE:
+                    p1.setScore(p1.getScore() +1);
+                    p2.setScore(p2.getScore() +1);
+                    break;
+                case LOST:
+                    p2.setScore(p2.getScore() +1);
+                    break;
+            }
         }
-        return Result.LOST;
+        if(p1.getScore() ==p2.getScore())
+            res = Result.TIE;
+        if(p1.getScore() < p2.getScore())
+            res = Result.LOST;
+        if(p1.getScore()> p2.getScore())
+            res = Result.WIN;
+        return res;
     }
 }

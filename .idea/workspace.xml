@@ -2,7 +2,459 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b88c63b-dc5e-4270-a799-e6c9a98a8874" name="Default" comment="">
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db147np47e897v5_0_i3u3dj_iejsj7dm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db147np47e897v5_0_qii1iv_iejsj7dm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db147np47e897v5_0_x3erx5_iejsj7dm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_0_a14g05_ietn27r1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_0_bnwap5_ietn27r1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_0_sbllgc_ietn27r1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_1_a14g05_ietn27sb.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_1_bnwap5_ietn27sb.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_2_a14g05_ietn27sl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1ab0rscis5s1e_2_bnwap5_ietn27sl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_6_a14g05_ietnak0x.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_6_bnwap5_ietnak0x.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_7_a14g05_ietnak16.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_7_bnwap5_ietnak16.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_8_a14g05_ietnak1f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw2_8_bnwap5_ietnak1f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_0_a14g05_ietnajy6.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_0_bnwap5_ietnajy6.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_0_sbllgc_ietnajy6.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_1_a14g05_ietnajz9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_1_bnwap5_ietnajz9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_2_a14g05_ietnajzj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw4_2_bnwap5_ietnajzj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_3_a14g05_ietnajzs.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_3_bnwap5_ietnajzs.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_4_a14g05_ietnak07.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_4_bnwap5_ietnak07.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_5_a14g05_ietnak0n.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh839lxsrw6_5_bnwap5_ietnak0n.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_6_a14g05_ietnakqr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_6_bnwap5_ietnakqr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_7_a14g05_ietnakr0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_7_bnwap5_ietnakr0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_8_a14g05_ietnakra.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj6_8_bnwap5_ietnakra.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_0_a14g05_ietnakob.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_0_bnwap5_ietnakob.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_0_sbllgc_ietnakob.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_1_a14g05_ietnakpe.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_1_bnwap5_ietnakpe.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_2_a14g05_ietnakpn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coj8_2_bnwap5_ietnakpn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_3_a14g05_ietnakpw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_3_bnwap5_ietnakpw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_4_a14g05_ietnakq5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_4_bnwap5_ietnakq5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_5_a14g05_ietnakqe.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abh9j456coja_5_bnwap5_ietnakqe.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_6_a14g05_ietnauum.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_6_bnwap5_ietnauum.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_7_a14g05_ietnauuw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_7_bnwap5_ietnauuw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_8_a14g05_ietnauv9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbm_8_bnwap5_ietnauv9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_0_a14g05_ietnaurx.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_0_bnwap5_ietnaurx.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_0_sbllgc_ietnaurx.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_1_a14g05_ietnauta.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_1_bnwap5_ietnauta.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_2_a14g05_ietnautk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbo_2_bnwap5_ietnautk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_3_a14g05_ietnautu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_3_bnwap5_ietnautu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_4_a14g05_ietnauu3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_4_bnwap5_ietnauu3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_5_a14g05_ietnauuc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1abhtgjrqqxbq_5_bnwap5_ietnauuc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_6_bnwap5_ieto29dv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_6_jot2t5_ieto29dv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_7_bnwap5_ieto29e5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_7_jot2t5_ieto29e5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_8_bnwap5_ieto29ee.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmo_8_jot2t5_ieto29ee.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_0_bnwap5_ieto29bm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_0_jot2t5_ieto29bm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_1_bnwap5_ieto29ch.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_1_jot2t5_ieto29ch.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_2_bnwap5_ieto29cq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqmq_2_jot2t5_ieto29cq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_3_bnwap5_ieto29d5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_3_jot2t5_ieto29d5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_4_bnwap5_ieto29de.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_4_jot2t5_ieto29de.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_5_bnwap5_ieto29dn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1aczvy8jtvqms_5_jot2t5_ieto29dn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_6_laxcmm_ietk4id4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_6_n2lm1k_ietk4id4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_7_laxcmm_ietk4idd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_7_n2lm1k_ietk4idd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_8_laxcmm_ietk4idq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy3_8_n2lm1k_ietk4idq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_0_laxcmm_ietk4iap.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_0_n2lm1k_ietk4iap.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_1_laxcmm_ietk4ibv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_1_n2lm1k_ietk4ibv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_2_laxcmm_ietk4ic4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy5_2_n2lm1k_ietk4ic4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_3_laxcmm_ietk4icd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_3_n2lm1k_ietk4icd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_4_laxcmm_ietk4icm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_4_n2lm1k_ietk4icm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_5_laxcmm_ietk4icv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1czwc9uqxiwy7_5_n2lm1k_ietk4icv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_6_laxcmm_ietk8qeg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_6_n2lm1k_ietk8qeg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_7_laxcmm_ietk8qeq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_7_n2lm1k_ietk8qeq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_8_laxcmm_ietk8qez.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl7_8_n2lm1k_ietk8qez.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_0_laxcmm_ietk8qc5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_0_n2lm1k_ietk8qc5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_1_laxcmm_ietk8qd9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_1_n2lm1k_ietk8qd9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_2_laxcmm_ietk8qdh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytl9_2_n2lm1k_ietk8qdh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_3_laxcmm_ietk8qdr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_3_n2lm1k_ietk8qdr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_4_laxcmm_ietk8qdz.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_4_n2lm1k_ietk8qdz.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_5_laxcmm_ietk8qe7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d04o9kdyytlb_5_n2lm1k_ietk8qe7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_6_3xm01r_ietm8rzh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_6_8r0sjn_ietm8rzh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_7_3xm01r_ietm8rzr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_7_8r0sjn_ietm8rzr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_8_3xm01r_ietm8s03.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0cg_8_8r0sjn_ietm8s03.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_0_3xm01r_ietm8rwq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_0_8r0sjn_ietm8rwq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_0_vk2cbo_ietm8rwq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_1_3xm01r_ietm8ry4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_1_8r0sjn_ietm8ry4.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_2_3xm01r_ietm8ryf.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ci_2_8r0sjn_ietm8ryf.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_3_3xm01r_ietm8ryp.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_3_8r0sjn_ietm8ryp.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_4_3xm01r_ietm8ryy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_4_8r0sjn_ietm8ryy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_5_3xm01r_ietm8rz7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d42tnqbid0ck_5_8r0sjn_ietm8rz7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_6_3xm01r_ietna9fc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_6_40d7zg_ietna9fc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_7_3xm01r_ietna9fm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_7_40d7zg_ietna9fm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_8_3xm01r_ietna9fv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c2_8_40d7zg_ietna9fv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_0_1x6tbl_ietna9co.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_0_3xm01r_ietna9co.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_0_40d7zg_ietna9co.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_1_3xm01r_ietna9e2.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_1_40d7zg_ietna9e2.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_2_3xm01r_ietna9eb.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c4_2_40d7zg_ietna9eb.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_3_3xm01r_ietna9ek.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_3_40d7zg_ietna9ek.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_4_3xm01r_ietna9eu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_4_40d7zg_ietna9eu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_5_3xm01r_ietna9f3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d64s7ly454c6_5_40d7zg_ietna9f3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_7_3xm01r_ietoyerw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_7_y5rhtr_ietoyerw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_8_3xm01r_ietoyes9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_8_y5rhtr_ietoyes9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_9_3xm01r_ietoyesj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b2_9_y5rhtr_ietoyesj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_0_3xm01r_ietoyeoy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_0_y5rhtr_ietoyeoy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_1_3xm01r_ietoyeq0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_1_y5rhtr_ietoyeq0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_2_3xm01r_ietoyeqa.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b4_2_y5rhtr_ietoyeqa.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_4_3xm01r_ietoyeqz.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_4_y5rhtr_ietoyeqz.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_5_3xm01r_ietoyera.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_5_y5rhtr_ietoyera.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_6_3xm01r_ietoyerk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b6_6_y5rhtr_ietoyerk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b8_3_3xm01r_ietoyeql.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9fgk1qlz8b8_3_s7nzqc_ietoyeql.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9a_7_3xm01r_ietp6h1w.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9a_8_3xm01r_ietp6h21.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9a_9_3xm01r_ietp6h27.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9c_0_3xm01r_ietp6h08.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9c_1_3xm01r_ietp6h0v.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9c_2_3xm01r_ietp6h11.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9e_4_3xm01r_ietp6h1f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9e_5_3xm01r_ietp6h1l.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9e_6_3xm01r_ietp6h1q.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1d9vdddf4ru9g_3_3xm01r_ietp6h18.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_7_3xm01r_ietp9zcw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_7_y5rhtr_ietp9zcw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_8_3xm01r_ietp9zd5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_8_y5rhtr_ietp9zd5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_9_3xm01r_ietp9zde.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzow_9_y5rhtr_ietp9zde.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_0_3xm01r_ietp9za0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_0_y5rhtr_ietp9za0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_1_3xm01r_ietp9zb2.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_1_y5rhtr_ietp9zb2.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_2_3xm01r_ietp9zbc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzoy_2_y5rhtr_ietp9zbc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_4_3xm01r_ietp9zc3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_4_y5rhtr_ietp9zc3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_5_3xm01r_ietp9zcc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_5_y5rhtr_ietp9zcc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_6_3xm01r_ietp9zcl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp0_6_y5rhtr_ietp9zcl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp2_3_3xm01r_ietp9zbm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp2_3_s7nzqc_ietp9zbm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1da2aie7tyzp2_3_y5rhtr_ietp9zbm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db1x6tbl_ietna9d7" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3t8155e5aadt_0_573shk_iejs7xmf.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3t8155e5aadt_0_d40a1b_iejs7xmf.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3tvdvjtlmv4h_0_573shk_iejsjrq0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3tvdvjtlmv4h_0_d40a1b_iejsjrq0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3tvdvjtlmv4h_0_t4hntu_iejsjrq0.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3txd5lhm3t3l_0_573shk_iejskrui.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3txd5lhm3t3l_0_d40a1b_iejskrui.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3txd5lhm3t3l_0_t4hntu_iejskrui.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3xm01r_ietm8rw9" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3xm01r_ietna9c4" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3xm01r_ietoyenh" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3xm01r_ietp6gys" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db3xm01r_ietp9z8j" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db40d7zg_ietna9dm" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_0_a1rqak_ietmxp0g.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_0_a23lcg_ietmxp0g.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_0_qx5ezp_ietmxp0g.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_1_a23lcg_ietmxp25.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_1_qx5ezp_ietmxp25.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_2_a23lcg_ietmxp2f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db56kkta9e26uq_2_qx5ezp_ietmxp2f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db573shk_iejs51sk" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db573shk_iejs7xlx" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db573shk_iejsjrpi" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db573shk_iejskrtx" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db573shk_ietjzymx" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_6_a23lcg_ietnnzfr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_6_bjjpgs_ietnnzfr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_7_a23lcg_ietnnzg1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_7_bjjpgs_ietnnzg1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_8_a23lcg_ietnnzga.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pu_8_bjjpgs_ietnnzga.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_0_a23lcg_ietnnzdn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_0_bjjpgs_ietnnzdn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_1_a23lcg_ietnnzeh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_1_bjjpgs_ietnnzeh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_2_a23lcg_ietnnzeq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5pw_2_bjjpgs_ietnnzeq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_3_a23lcg_ietnnzey.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_3_bjjpgs_ietnnzey.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_4_a23lcg_ietnnzf7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_4_bjjpgs_ietnnzf7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_5_a23lcg_ietnnzfg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db580g1cmaq5py_5_bjjpgs_ietnnzfg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db64vkad_ietjzyob" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietkh0oc" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietlll0f" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietlz3o6" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietm2425" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietoxttc" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db6arvz2_ietp836u" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db739j6v_ietn49jz" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db8gqd3w_ietoyeo0" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db8gqd3w_ietp6gz9" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db8gqd3w_ietp9z90" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.db8r0sjn_ietm8rxk" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba14g05_ietn27rt" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba14g05_ietnajyt" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba14g05_ietnakow" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba14g05_ietnaust" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba1rqak_ietmxp15" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba23lcg_ietmxozx" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dba23lcg_ietnnzcg" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbjjpgs_ietnnze3" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbnwap5_ietn27ql" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbnwap5_ietnajxn" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbnwap5_ietnaknu" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbnwap5_ietnaurh" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbbnwap5_ieto29aa" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbd40a1b_iejs7xn8" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbd40a1b_iejsjrqu" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbd40a1b_iejskrvc" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbd40a1b_iejt23ou" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbegeqng_ieto29aq" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbfzm2ed_ietm2436" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbgeoxjk_ietoxttt" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbgeoxjk_ietp837f" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbi3u3dj_iejsj7er" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbjot2t5_ieto29c2" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblaxcmm_iejt23my" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblaxcmm_iejt8qy6" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblaxcmm_ietk4ia0" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblaxcmm_ietk8qbm" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblglwr9_ietnnzcz" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dblglwr9_ietp837w" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn2lm1k_iejt23oe" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn2lm1k_ietk4ib6" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn2lm1k_ietk8qcn" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_6_573shk_ietjzyqd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_6_64vkad_ietjzyqd.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_7_573shk_ietjzyql.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_7_64vkad_ietjzyql.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_8_573shk_ietjzyqu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7ej_8_64vkad_ietjzyqu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_0_573shk_ietjzynr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_0_64vkad_ietjzynr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_1_573shk_ietjzyoy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_1_64vkad_ietjzyoy.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_2_573shk_ietjzyp9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7el_2_64vkad_ietjzyp9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_3_573shk_ietjzypm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_3_64vkad_ietjzypm.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_4_573shk_ietjzypv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_4_64vkad_ietjzypv.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_5_573shk_ietjzyq3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn3b6geg9v7en_5_64vkad_ietjzyq3.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0b_6_6arvz2_ietkh0qj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0b_7_6arvz2_ietkh0qo.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0b_8_6arvz2_ietkh0qt.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0d_0_6arvz2_ietkh0ox.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0d_1_6arvz2_ietkh0pu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0d_2_6arvz2_ietkh0pz.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0f_3_6arvz2_ietkh0q5.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0f_4_6arvz2_ietkh0q9.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn48u9dpqdg0f_5_6arvz2_ietkh0qe.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8r_6_6arvz2_ietlll2k.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8r_7_6arvz2_ietlll2p.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8r_8_6arvz2_ietlll2u.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8t_0_6arvz2_ietlll0y.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8t_1_6arvz2_ietlll1v.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8t_2_6arvz2_ietlll20.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8v_3_6arvz2_ietlll25.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8v_4_6arvz2_ietlll2a.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn6gvmefbfl8v_5_6arvz2_ietlll2f.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwr_6_6arvz2_ietlz3q7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwr_7_6arvz2_ietlz3qb.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwr_8_6arvz2_ietlz3qg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwt_0_6arvz2_ietlz3oo.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwt_1_6arvz2_ietlz3pi.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwt_2_6arvz2_ietlz3pn.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwv_3_6arvz2_ietlz3ps.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwv_4_6arvz2_ietlz3px.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn77jurwoqzwv_5_6arvz2_ietlz3q1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl7_6_6arvz2_ietm244o.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl7_7_6arvz2_ietm244u.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl7_8_6arvz2_ietm244z.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl9_0_6arvz2_ietm242o.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl9_0_fzm2ed_ietm242o.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl9_1_6arvz2_ietm243w.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adl9_2_6arvz2_ietm2442.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adlb_3_6arvz2_ietm2448.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adlb_4_6arvz2_ietm244d.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbn7dhpgn1adlb_5_6arvz2_ietm244i.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_6_6arvz2_ietoxtx1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_6_qx5ezp_ietoxtx1.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_7_6arvz2_ietoxtxc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_7_qx5ezp_ietoxtxc.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_8_6arvz2_ietoxtxl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvou_8_qx5ezp_ietoxtxl.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_0_6arvz2_ietoxtuk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_0_qx5ezp_ietoxtuk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_1_6arvz2_ietoxtvj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_1_qx5ezp_ietoxtvj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_2_6arvz2_ietoxtvu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvow_2_qx5ezp_ietoxtvu.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_3_6arvz2_ietoxtw7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_3_qx5ezp_ietoxtw7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_4_6arvz2_ietoxtwh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_4_qx5ezp_ietoxtwh.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_5_6arvz2_ietoxtwr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbnd24phr4dvoy_5_qx5ezp_ietoxtwr.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_7_6arvz2_ietp83b7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_7_qx5ezp_ietp83b7.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_8_6arvz2_ietp83bg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_8_qx5ezp_ietp83bg.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_9_6arvz2_ietp83bq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jri_9_qx5ezp_ietp83bq.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_0_6arvz2_ietp838d.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_0_qx5ezp_ietp838d.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_1_6arvz2_ietp839c.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_1_qx5ezp_ietp839c.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_2_6arvz2_ietp839m.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrk_2_qx5ezp_ietp839m.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_4_6arvz2_ietp83ac.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_4_qx5ezp_ietp83ac.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_5_6arvz2_ietp83am.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_5_qx5ezp_ietp83am.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_6_6arvz2_ietp83av.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jrm_6_qx5ezp_ietp83av.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jro_3_6arvz2_ietp839v.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jro_3_lglwr9_ietp839v.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbndmdij8e0jro_3_qx5ezp_ietp839v.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbpa40av_ietn49lg" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbqii1iv_iejsj7ee" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbqx5ezp_ietmxp1m" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbqx5ezp_ietoxtv2" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbqx5ezp_ietp838w" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbs7nzqc_ietoyeog" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbs7nzqc_ietp6gzp" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbs7nzqc_ietp9z9g" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbsbllgc_ietn27rg" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbsbllgc_ietnajyj" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbsbllgc_ietnakom" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbsbllgc_ietnause" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbt4hntu_iejsjrr8" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbt4hntu_iejskrvs" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbt4ml2w_ieto29b5" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_0_d40a1b_iejt23nj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_0_laxcmm_iejt23nj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_0_n2lm1k_iejt23nj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_1_d40a1b_iejt23pk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_1_laxcmm_iejt23pk.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_2_d40a1b_iejt23pw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtr7qpfjuysrn_2_laxcmm_iejt23pw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfval_3_laxcmm_iejt8qzw.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfval_4_laxcmm_iejt8r01.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfval_5_laxcmm_iejt8r07.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfvan_0_laxcmm_iejt8qyp.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfvan_1_laxcmm_iejt8qzi.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbtrkuzaycfvan_2_laxcmm_iejt8qzo.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_0_739j6v_ietn49kj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_0_pa40av_ietn49kj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_0_yeh6i4_ietn49kj.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_1_739j6v_ietn49lx.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_1_pa40av_ietn49lx.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_2_739j6v_ietn49m6.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbui4nyujzu4he_2_pa40av_ietn49m6.s" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbvk2cbo_ietm8rx7" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbx3erx5_iejrpsm2" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbx3erx5_iejsj7d6" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dby5rhtr_ietoyepi" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dby5rhtr_ietp9zak" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\.clover\coverage.dbyeh6i4_ietn49l1" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\Player$__CLR4_0_68o8oietoxp0m$1.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\Player$__CLR4_0_68o8oietoxp0m.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\RPSEnum$__CLR4_0_611ietkgvma$1.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\RPSEnum$__CLR4_0_611ietkgvma.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\RockPaperScissors$__CLR4_0_66i6iietp6c7b$1.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\fr\p10\miage\rps\model\RockPaperScissors$__CLR4_0_66i6iietp6c7b.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\upo\tdd\Main$__CLR4_0_600ietkgvl0$1.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\production\TD1\upo\tdd\Main$__CLR4_0_600ietkgvl0.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\test\TD1\fr\p10\miage\rps\tests\RockPaperScissorsTest$__CLR4_0_6ewewietp9umt$1.class" afterPath="" />
+      <change type="DELETED" beforePath="L:\Documents\M1 POA\TD1\out\test\TD1\fr\p10\miage\rps\tests\RockPaperScissorsTest$__CLR4_0_6ewewietp9umt.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TD1/upo/tdd/Main.class" afterPath="$PROJECT_DIR$/out/production/TD1/upo/tdd/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/Player.class" afterPath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/Player.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/RPSEnum.class" afterPath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/RPSEnum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/RockPaperScissors.class" afterPath="$PROJECT_DIR$/out/production/TD1/fr/p10/miage/rps/model/RockPaperScissors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/TD1/fr/p10/miage/rps/tests/RockPaperScissorsTest.class" afterPath="$PROJECT_DIR$/out/test/TD1/fr/p10/miage/rps/tests/RockPaperScissorsTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java" afterPath="$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TD1.iml" afterPath="$PROJECT_DIR$/TD1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TD1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,23 +470,23 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CloverPlugin" class="com.atlassian.clover.idea.config.IdeaCloverConfig">
     <includePassedTestCoverageOnly>false</includePassedTestCoverageOnly>
-    <manualInitString null="true" />
     <useGeneratedInitString>true</useGeneratedInitString>
+    <manualInitString null="true" />
     <showTooltips>true</showTooltips>
     <failedCoveredHighlight>-11513856</failedCoveredHighlight>
     <periodicRefresh>false</periodicRefresh>
     <languageLevel>1.8 - lambda functions, virtual extension methods.</languageLevel>
     <instrumentLambda class="com.atlassian.clover.cfg.instr.java.LambdaInstrumentation">NONE</instrumentLambda>
-    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
     <autoScrollFromSource>false</autoScrollFromSource>
+    <testCaseLayout class="com.atlassian.clover.idea.config.TestCaseLayout">TEST_CASES</testCaseLayout>
     <coveredHighlight>-16756736</coveredHighlight>
     <outOfDateStripe>-256</outOfDateStripe>
     <includes null="true" />
     <excludes null="true" />
     <alwaysExpandTestClasses>false</alwaysExpandTestClasses>
     <autoViewInCloudReport>true</autoViewInCloudReport>
-    <filteredHighlight>-11513776</filteredHighlight>
     <flushPolicy>0</flushPolicy>
+    <filteredHighlight>-11513776</filteredHighlight>
     <outOfDateHighlight>-16777201</outOfDateHighlight>
     <showInline>true</showInline>
     <dumpInstrumentedSources>false</dumpInstrumentedSources>
@@ -61,7 +513,7 @@
     <viewIncludeAnnotation>true</viewIncludeAnnotation>
     <loadPerTestData>true</loadPerTestData>
     <showErrorMarks>true</showErrorMarks>
-    <buildWithClover>true</buildWithClover>
+    <buildWithClover>false</buildWithClover>
     <lastProjectConfigTabSelected>0</lastProjectConfigTabSelected>
     <contextFilterSpec />
     <span>0 days</span>
@@ -88,11 +540,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8896552">
+              <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,7 +556,7 @@
         <entry file="file://$PROJECT_DIR$/tests/fr/p10/miage/rps/tests/RockPaperScissorsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="108" column="38" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
+              <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,11 +564,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RockPaperScissors.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44425088">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -194,9 +646,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,6 +722,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,6 +858,9 @@
       <envs />
       <properties />
       <listeners />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55388" />
+      </RunnerSettings>
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -665,6 +1120,9 @@
       <workItem from="1442817758634" duration="10858000" />
       <workItem from="1442829147425" duration="161000" />
       <workItem from="1442829628549" duration="22000" />
+      <workItem from="1443009040604" duration="33000" />
+      <workItem from="1443075395787" duration="1682000" />
+      <workItem from="1443077120024" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="TDD">
       <created>1442827359944</created>
@@ -676,7 +1134,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20148000" />
+    <option name="totallyTimeSpent" value="21871000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +1147,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -698,18 +1156,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cloverage" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -765,7 +1223,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -774,6 +1240,90 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fr/p10/miage/rps/tests/RockPaperScissorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fr/p10/miage/rps/tests/RockPaperScissorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="38" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/fr/p10/miage/rps/tests/RockPaperScissorsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="38" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -976,20 +1526,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/fr/p10/miage/rps/tests/RockPaperScissorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="38" selection-start-line="108" selection-start-column="38" selection-end-line="108" selection-end-column="38" />
+          <caret line="105" column="16" selection-start-line="105" selection-start-column="16" selection-end-line="105" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -998,9 +1538,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/RockPaperScissors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44425088">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/p10/miage/rps/model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8896552">
+          <caret line="80" column="1" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

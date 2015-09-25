@@ -18,11 +18,13 @@ import static org.testng.Assert.assertEquals;
  */
 public class RockPaperScissorsTest extends RockPaperScissors {
     private RockPaperScissors rps;
-    private Player p1,p2;
+    private Player p1,p2,p3,p4,p5,p6;
     private List<RPSEnum> ListMouvement1 = new ArrayList<>();
     private List<RPSEnum> ListMouvement2 = new ArrayList<>();
-
-
+    private List<RPSEnum> ListMouvement3 = new ArrayList<>();
+    private List<RPSEnum> ListMouvement4 = new ArrayList<>();
+    private List<RPSEnum> ListMouvement5 = new ArrayList<>();
+    private List<RPSEnum> ListMouvement6 = new ArrayList<>();
 
     @BeforeClass
 
@@ -40,9 +42,29 @@ public class RockPaperScissorsTest extends RockPaperScissors {
         ListMouvement2.add(RPSEnum.SCISSORS);
         ListMouvement2.add(RPSEnum.ROCK);
         ListMouvement2.add(RPSEnum.PAPER);
+
+        ListMouvement4.add(RPSEnum.ROCK);
+        ListMouvement4.add(RPSEnum.PAPER);
+        ListMouvement4.add(RPSEnum.SCISSORS);
+        ListMouvement3.add(RPSEnum.SCISSORS);
+        ListMouvement3.add(RPSEnum.ROCK);
+        ListMouvement3.add(RPSEnum.PAPER);
+
+        ListMouvement5.add(RPSEnum.ROCK);
+        ListMouvement5.add(RPSEnum.PAPER);
+        ListMouvement5.add(RPSEnum.SCISSORS);
+        ListMouvement6.add(RPSEnum.ROCK);
+        ListMouvement6.add(RPSEnum.PAPER);
+        ListMouvement6.add(RPSEnum.SCISSORS);
+
         p1 = new Player("p1",ListMouvement1);
         p2 = new Player("p2",ListMouvement2);
 
+        p3 = new Player("p3",ListMouvement3);
+        p4 = new Player("p4",ListMouvement4);
+
+        p5 = new Player("p5",ListMouvement5);
+        p6 = new Player("p6",ListMouvement6);
     }
 
     @AfterClass
@@ -50,8 +72,16 @@ public class RockPaperScissorsTest extends RockPaperScissors {
         rps = null;
         ListMouvement1 = null;
         ListMouvement2 = null;
+        ListMouvement3 = null;
+        ListMouvement4 = null;
+        ListMouvement5 = null;
+        ListMouvement6 = null;
         p1 = null;
         p2 = null;
+        p3 = null;
+        p4 = null;
+        p5 = null;
+        p6 = null;
     }
 
 
@@ -104,9 +134,23 @@ public class RockPaperScissorsTest extends RockPaperScissors {
 
     @Test
     public void testPlayer1Win() throws Exception {
-        assertEquals(rps.play(p1,p2),Result.LOST);
+        assertEquals(rps.play(p1,p2),Result.WIN);
         assertEquals(p1.getScore(),3);
         assertEquals(p2.getScore(),0);
+    }
+
+    @Test
+    public void testPlayer2Win() throws Exception {
+        assertEquals(rps.play(p3, p4),Result.LOST);
+        assertEquals(p3.getScore(),0);
+        assertEquals(p4.getScore(),3);
+    }
+
+    @Test
+    public void testPlayerTie() throws Exception {
+        assertEquals(rps.play(p5, p6),Result.TIE);
+        assertEquals(p5.getScore(),3);
+        assertEquals(p6.getScore(),3);
     }
 
 }
